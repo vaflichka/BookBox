@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b861ebbb-8505-4107-a1d1-4834ef4192a1": {
+      "ProjectGuid": "b861ebbb-8505-4107-a1d1-4834ef4192a1",
+      "DisplayName": "BookBox",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BB\\BookBox\\BookBox\\BookBox\\BookBox.csproj": {}
+    "C:\\Users\\itk11\\Source\\Repos\\BookBox\\BookBox\\BookBox\\BookBox.csproj": {}
   },
   "projects": {
-    "D:\\BB\\BookBox\\BookBox\\BookBox\\BookBox.csproj": {
+    "C:\\Users\\itk11\\Source\\Repos\\BookBox\\BookBox\\BookBox\\BookBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BB\\BookBox\\BookBox\\BookBox\\BookBox.csproj",
+        "projectUniqueName": "C:\\Users\\itk11\\Source\\Repos\\BookBox\\BookBox\\BookBox\\BookBox.csproj",
         "projectName": "BookBox",
-        "projectPath": "D:\\BB\\BookBox\\BookBox\\BookBox\\BookBox.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\BB\\BookBox\\BookBox\\BookBox\\obj\\",
+        "projectPath": "C:\\Users\\itk11\\Source\\Repos\\BookBox\\BookBox\\BookBox\\BookBox.csproj",
+        "packagesPath": "C:\\Users\\itk11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\itk11\\Source\\Repos\\BookBox\\BookBox\\BookBox\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\itk11\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -54,15 +53,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

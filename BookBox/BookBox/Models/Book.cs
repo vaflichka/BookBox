@@ -9,6 +9,8 @@
         // автор книги
         public string Author { get; set; }
         // цена
-        //public int Price { get; set; }
+        public int Price { get; set; }
+        public int Price2 { get; set; }
+
     }
 }
